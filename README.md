@@ -33,7 +33,7 @@ MEGA BOX를 참고하여 만든 영화 예매 사이트입니다.
 #### 회원가입 - <a href="https://github.com/jeonsungdeok/MEGABOX/wiki/%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85" >상세보기 - WIKI 이동</a>
 - 주소 API 연동
 - ID 중복 체크
-#### 마이 페이지 - <a href="https://github.com/chaehyuenwoo/SpringBoot-Project-MEGABOX/wiki/%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C(Member)" >상세보기 - WIKI 이동</a>
+#### 마이 페이지 - <a href="https://github.com/jeonsungdeok/MEGABOX/wiki/%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85#%EF%B8%8F-mypage%ED%9A%8C%EC%9B%90-%EC%A0%95%EB%B3%B4-%EC%88%98%EC%A0%95" >상세보기 - WIKI 이동</a>
 - 주소 API 연동
 - 회원정보 변경
 
